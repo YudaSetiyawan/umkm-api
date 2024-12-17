@@ -1,0 +1,96 @@
+2024-11-19 02:31:11 - Received data: null
+2024-11-19 05:12:53 - Received data: null
+2024-11-19 05:12:53 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:24:32 - Received data: null
+2024-11-19 05:24:32 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:28:34 - Received data: null
+2024-11-19 05:28:34 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:38:52 - Received data: null
+2024-11-19 05:38:52 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:39:39 - Received data: null
+2024-11-19 05:47:36 - Received data: null
+2024-11-19 05:47:36 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:49:12 - Received data: null
+2024-11-19 05:49:12 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:52:29 - Received data: null
+2024-11-19 05:52:29 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:52:53 - Received data: null
+2024-11-19 05:52:53 - Received data: {"outlet_id":2,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 05:54:07 - Received data: null
+2024-11-19 05:54:07 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 06:03:05 - Received data: null
+2024-11-19 06:03:05 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 15:08:59 - Received data: null
+2024-11-19 15:08:59 - Received data: {"outlet_id":1,"product_id":"","price":0,"quantity":0,"total_price":0}
+2024-11-19 15:17:03 - Received data: null
+2024-11-19 15:17:03 - Received data: {"outlet_id":1,"product_id":"7","price":"14000.00","quantity":"2","total_price":28000}
+2024-11-19 15:23:57 - Received data: null
+2024-11-19 15:23:57 - Received data: {"outlet_name":"Outlet Sidokepung","product_name":"BR Original","price":"8000.00","quantity":"2","total_price":16000}
+2024-11-19 15:30:54 - Received data: null
+2024-11-19 15:30:54 - Received data: {"outlet_name":"Outlet Sidokepung","product_name":"BR Tiramisu","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:31:14 - Received data: null
+2024-11-19 15:31:14 - Received data: {"outlet_name":"Outlet Sidokepung","product_name":"BR Tiramisu","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:31:26 - Received data: null
+2024-11-19 15:31:26 - Received data: {"outlet_name":"Outlet Sidokepung","product_name":"BR Tiramisu","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:32:32 - Received data: null
+2024-11-19 15:32:32 - Received data: {"outlet_id":1,"product_id":"12","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:33:36 - Received data: null
+2024-11-19 15:33:36 - Received data: {"outlet_id":2,"product_id":"11","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:34:15 - Received data: null
+2024-11-19 15:34:15 - Received data: {"outlet_id":1,"product_id":"11","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:51:18 - Received data: null
+2024-11-19 15:51:18 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"12","product_name":"BR Greentea","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-19 15:52:07 - Received data: null
+2024-11-19 15:52:07 - Received data: {"outlet_id":3,"outlet_name":"Outlet Keling","product_id":"22","product_name":"Piscok Strawberry","price":"12000.00","quantity":"2","total_price":24000}
+2024-11-19 16:00:20 - Received data: null
+2024-11-19 16:00:20 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"5","product_name":"PG Keju Tiramisu","price":"14000.00","quantity":"4","total_price":56000}
+2024-11-19 16:04:08 - Received data: null
+2024-11-19 16:04:08 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"12","product_name":"BR Greentea","price":"10000.00","quantity":"4","total_price":40000}
+2024-11-20 13:11:20 - Received data: null
+2024-11-20 13:11:20 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":0,"total_price":0}
+2024-11-20 13:12:30 - Received data: null
+2024-11-20 13:12:30 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"4","total_price":32000}
+2024-11-20 15:08:15 - Received data: null
+2024-11-20 15:08:15 - Received data: {"outlet_id":3,"outlet_name":"Outlet Keling","product_id":"4","product_name":"PG Keju Greantea","price":"14000.00","quantity":"5","total_price":70000}
+2024-11-21 03:13:20 - Received data: null
+2024-11-21 03:13:20 - Received data: {"outlet_id":4,"outlet_name":"Outlet Rumah","product_id":"8","product_name":"PG Keju Cappucino","price":"14000.00","quantity":"3","total_price":42000}
+2024-11-21 04:12:23 - Received data: null
+2024-11-21 04:12:23 - Received data: {"outlet_id":3,"outlet_name":"Outlet Keling","product_id":"2","product_name":"PG Keju Original","price":"11000.00","quantity":"3","total_price":33000}
+2024-11-21 04:44:23 - Received data: null
+2024-11-21 04:44:23 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"3","product_name":"PG Keju Mesis","price":"13000.00","quantity":"2","total_price":26000}
+2024-11-21 15:48:37 - Received data: null
+2024-11-21 15:48:37 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"21","product_name":"Piscok Tiramisu","price":"12000.00","quantity":"2","total_price":24000}
+2024-11-21 15:50:58 - Received data: null
+2024-11-21 15:50:58 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"11","product_name":"BR Keju","price":"10000.00","quantity":"2","total_price":20000}
+2024-11-21 16:44:21 - Received data: null
+2024-11-21 16:44:21 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"2","total_price":16000}
+2024-11-21 16:57:10 - Received data: null
+2024-11-21 16:57:10 - Received data: {"outlet_id":null,"outlet_name":"Outlet Sidokepung","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"4","total_price":32000}
+2024-11-21 16:57:34 - Received data: null
+2024-11-21 16:57:34 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"4","total_price":32000}
+2024-11-22 15:34:03 - Received data: null
+2024-11-22 15:34:03 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"10","total_price":80000}
+2024-11-22 15:51:02 - Received data: null
+2024-11-22 15:51:02 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"9","product_name":"PG Keju MIX 2 Topping","price":"16000.00","quantity":"5","total_price":80000}
+2024-11-22 16:00:31 - Received data: null
+2024-11-22 16:00:31 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"3","total_price":24000}
+2024-11-22 16:29:42 - Received data: null
+2024-11-22 16:29:42 - Received data: {"outlet_id":4,"outlet_name":"Outlet Rumah","product_id":"4","product_name":"PG Keju Greantea","price":"14000.00","quantity":"4","total_price":56000}
+2024-11-23 04:43:41 - Received data: null
+2024-11-23 04:43:41 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"2","product_name":"PG Keju Original","price":"11000.00","quantity":"6","total_price":66000}
+2024-12-08 04:21:34 - Received data: null
+2024-12-08 04:21:34 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"2","product_name":"PG Keju Original","price":"11000.00","quantity":"3","total_price":33000}
+2024-12-08 04:23:30 - Received data: null
+2024-12-08 04:23:30 - Received data: {"outlet_id":3,"outlet_name":"Outlet Keling","product_id":"1","product_name":"PG Polos Susu","price":"8000.00","quantity":"2","total_price":16000}
+2024-12-08 13:18:15 - Received data: null
+2024-12-08 13:18:15 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"4","product_name":"PG Keju Greantea","price":"14000.00","quantity":"10","total_price":140000}
+2024-12-08 13:19:20 - Received data: null
+2024-12-08 13:19:20 - Received data: {"outlet_id":5,"outlet_name":"Outlet Pagerwojo","product_id":"3","product_name":"PG Keju Mesis","price":"13000.00","quantity":"2","total_price":26000}
+2024-12-08 13:23:33 - Received data: null
+2024-12-08 13:23:33 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"3","product_name":"PG Keju Mesis","price":"13000.00","quantity":"10","total_price":130000}
+2024-12-08 15:28:46 - Received data: null
+2024-12-08 15:28:46 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"4","product_name":"PG Keju Greantea","price":"14000.00","quantity":"5","total_price":70000}
+2024-12-09 04:09:24 - Received data: null
+2024-12-09 04:09:24 - Received data: {"outlet_id":1,"outlet_name":"Outlet Sidokepung","product_id":"5","product_name":"PG Keju Tiramisu","price":"14000.00","quantity":"20","total_price":280000}
+2024-12-17 10:51:40 - Received data: null
+2024-12-17 10:51:40 - Received data: {"outlet_id":2,"outlet_name":"Outlet Graha Kota","product_id":"7","product_name":"PG Keju Cokelat","price":"14000.00","quantity":"5","total_price":70000}
